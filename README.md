@@ -1,5 +1,5 @@
 # About Anyu Risa M project
-My initial idea for this project was to allow a discord bot to interact with physical devices thorugh discord commands in the discord channel along with the ESP32, I believe using an ESP32 for this project isn't strictly required a average raspberry pi pico will be sufficient to do thought i haven't tested it out yet.
+My initial idea for this project was to allow a discord bot to interact with physical devices thorugh discord commands in the discord channel along with the ESP32.
 
 ## Items I've used
 - ESP32
